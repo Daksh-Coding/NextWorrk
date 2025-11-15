@@ -38,7 +38,7 @@ NextWorrk is a full-stack job-tracking platform built with **React + Vite** on t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/TrackMyCareer-AI.git
+git clone https://github.com/Daksh-Coding/NextWorrk.git
 cd TrackMyCareer-AI
 ```
 
